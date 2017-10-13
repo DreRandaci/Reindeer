@@ -1,3 +1,3 @@
-# Reindeers and shit
+# Reindeers
 
-how to iterate through two arrays and print the corresponding indexes to the dom
+Iterate through two different arrays and print the indices to the DOM using vanilla JavaScript
